@@ -24,3 +24,7 @@
 - [Python 旋風之旅](https://jakevdp.github.io/WhirlwindTourOfPython/)
 - [精通 Python](https://www.books.com.tw/products/0010690075)
 - [互動式練習題](https://www.datacamp.com?tap_a=5644-dce66f&tap_s=194899-1fb421&utm_medium=affiliate&utm_source=tonykuo)
+
+## 上課錄影
+
+<https://www.youtube.com/playlist?list=PLEq7iw5uOtuV9J1HsP7DuADLNBibZAuX3>
