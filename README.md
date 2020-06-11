@@ -18,6 +18,7 @@
 - [程式封裝：自訂函數](https://yaojenkuo.io/py_prg/07-code-packaging-functions.slides.html)
 - [程式封裝：自訂類別](https://yaojenkuo.io/py_prg/08-code-packaging-classes.slides.html)
 - [程式封裝：自訂模組/套件](https://yaojenkuo.io/py_prg/09-code-packaging-modules-and-libraries.slides.html)
+- [Python 程式設計常用技巧](https://yaojenkuo.io/py_prg/10-python-programming-skills.slides.html)
 
 ## 延伸閱讀
 
